@@ -1,16 +1,18 @@
 # Udacity-DSA
 ![alt_text](https://mma.prnewswire.com/media/1121585/Udacity_Logo.jpg)
+
 # Tech Interview Techniques
-"*"Clarifying the question
 
-"*"Confirming inputs
+*Clarifying the question
 
-"*"Test cases	|	Edge cases
+*Confirming inputs
 
-"*"Brainstorming
+*Test cases	|	Edge cases
 
-"*"Runtime analysis
+*Brainstorming
 
-"*"Coding
+*Runtime analysis
 
-"*"Debugging
+*Coding
+
+*Debugging
